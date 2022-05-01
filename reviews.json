@@ -1,0 +1,3 @@
+{"_id":{"$oid":"61df4566d720ed7c340b119f"},"body":"such a great place","rating":3,"__v":0}
+{"_id":{"$oid":"61df9fc7e191b7c6cabcca52"},"body":"I love stanley park, especially riding a bike here.","rating":3,"__v":0}
+{"_id":{"$oid":"61e06b560ffc428b9aa9003c"},"body":"beautiful place","rating":3,"author":{"$oid":"61df42eb4470570cdfdf80a6"},"__v":0}
